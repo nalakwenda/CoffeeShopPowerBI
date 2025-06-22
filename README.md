@@ -9,7 +9,8 @@ related to revenue, customer behavior, and sales performance.
 ---
 
 ## 📎 Dashboard Preview  
-![image](https://github.com/user-attachments/assets/e5dac194-790b-4610-87b8-70d4a08a9916)
+![image](https://github.com/user-attachments/assets/9d41169e-a6b9-4eed-9290-a0eb740d4f8d)
+
 
 ![image](https://github.com/user-attachments/assets/04ce39c4-5b93-45f0-91f5-50225b43175b)
  
