@@ -1,5 +1,9 @@
 # ☕ Coffee Sales Analysis
 
+## 📎 Dashboard Preview  
+
+---
+
 ## 📌 Background  
 In today’s competitive retail environment, understanding customer purchasing behavior and sales trends is critical.
 This project analyzes a coffee shop’s transaction data to uncover actionable insights that help drive better business decisions
@@ -74,24 +78,17 @@ Revenue shows an overall upward trend with noticeable peaks during weekends. The
 
 ---
 
-### 5. 📉 Are there seasonal or daily patterns in purchases?
-**Finding**:  
-- Sales increase during holidays (e.g., Christmas, Easter).
-- **Weekdays** show consistent sales, while **weekends** see spikes.
-
----
-
-### 6. 🎯 How well are we meeting monthly sales targets?
+### 5. 🎯 How well are we meeting monthly sales targets?
 **Finding**:  
 - Sales exceeded targets in **4 out of 6 months**.
 - Conditional formatting (green/red arrows) shows positive MoM changes for January–March and drops in April–May.
 
 ---
 
-### 7. 📈 What’s the average transaction value?
+### 6. 📈 What’s the average transaction value?
 
 - **Average   Transaction Value**: $5  
-.
+
 
 ---
 
@@ -105,7 +102,4 @@ Revenue shows an overall upward trend with noticeable peaks during weekends. The
 
 ---
 
-## 📎 Dashboard Preview  
-(Embed dashboard screenshot or link here)
 
-> *For full interaction, access the live Power BI report in the project folder or shared workspace.*
