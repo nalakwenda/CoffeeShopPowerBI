@@ -59,13 +59,14 @@ The data was cleaned, enriched with time-based attributes, and analyzed using Po
 
 ### 1. 💰 What is the total revenue generated over time?
 **Finding**:  
-Revenue shows an overall upward trend with noticeable peaks during weekends. The highest sales occurred in **December**, indicating a seasonal holiday surge.
+The total venue was $698812 from January to June. There was a general increase in revenue during this period. 
+
 
 ---
 
 ### 2. 📅 What are the busiest days and hours?
 **Finding**:  
-- **Friday**,**Monday** and **Thursday** have the highest footfall.
+- **Friday** and **Monday** have the highest revenue.
 - Most purchases occur between **8 AM – 10 AM**, aligning with coffee rush hours.
 
 ---
@@ -79,19 +80,50 @@ Revenue shows an overall upward trend with noticeable peaks during weekends. The
 
 ### 4. 📊 What is the average monthly revenue and how does it trend?
 **Finding**:  
-- Average monthly revenue is **$12,000**.
-- There’s steady growth with a slight dip during the rainy season (April).
+- Average monthly revenue is **$116467**.
+- There’s steady growth with a slight dip in February.
 
 ---
 
-### 5. 🎯 How well are we meeting monthly sales targets?
+### 5. 📈 What are the top 10 best selling products with their associated categories?
 **Finding**:  
-- Sales exceeded targets in **4 out of 6 months**.
-- Conditional formatting (green/red arrows) shows positive MoM changes for January–March and drops in April–May.
+
+| Product Detail                    | Product Category      | Total Quantity Sold |
+|----------------------------------|------------------------|----------------------|
+| Serenity Green Tea Rg            | Tea                    | 4,477                |
+| Our Old Time Diner Blend Sm      | Coffee                 | 4,484                |
+| Latte Rg                         | Coffee                 | 4,497                |
+| Traditional Blend Chai Rg        | Tea                    | 4,512                |
+| Peppermint Rg                    | Tea                    | 4,564                |
+| Dark chocolate Lg                | Drinking Chocolate     | 4,668                |
+| Morning Sunrise Chai Rg          | Tea                    | 4,643                |
+| Columbian Medium Roast Rg        | Coffee                 | 4,547                |
+| Latte                            | Coffee                 | 4,602                |
+| Earl Grey Rg                     | Tea                    | 4,708                |
+
 
 ---
+### 6. 📈 What are the top 10 worst selling products with their associated categories?
+**Finding**:  
 
-### 6. 📈 What’s the average transaction value?
+| Product Detail                    | Product Category      | Total Quantity Sold |
+|----------------------------------|------------------------|----------------------|
+| Peppermint                       | Loose Tea              | 153                  |
+| Lemon Grass                      | Loose Tea              | 152                  |
+| Traditional Blend Chai           | Loose Tea              | 153                  |
+| Primo Espresso Roast             | Coffee beans           | 150                  |
+| Columbian Medium Roast           | Coffee beans           | 148                  |
+| Dark chocolate                   | Packaged Chocolate     | 118                  |
+| Chili Mayan                      | Packaged Chocolate     | 148                  |
+| Jamacian Coffee River            | Coffee beans           | 146                  |
+| Spicy Eye Opener Chai            | Loose Tea              | 122                  |
+| Guatemalan Sustainably Grown     | Coffee beans           | 134                  |
+| Earl Grey                        | Loose Tea              | 142                  |
+
+
+
+---
+### 7. 📈 What’s the average transaction value?
 
 - **Average   Transaction Value**: $5  
 
