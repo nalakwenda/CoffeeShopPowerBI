@@ -28,17 +28,17 @@ The data was cleaned, enriched with time-based attributes, and analyzed using Po
 
 ## 🗂️ Data Structure Overview  
 
-| Column Name        | Description                            |
-|--------------------|----------------------------------------|
-| `TransactionID`    | Unique identifier for each transaction |
-| `TransactionDate`  | Date of transaction                    |
-| `TransactionTime`  | Time of transaction                    |
-| `Product`          | Name of the product sold               |
-| `Category`         | Category of product (e.g., Beverage)   |
-| `Quantity`         | Quantity sold                          |
-| `UnitPrice`        | Price per unit                         |
-| `CustomerID`       | Unique ID of customer (if available)   |
-| `Location`         | Store location (if multiple branches)  |
+transaction_id : Unique sequential ID representing an individual transaction
+transaction_date : Date of the transaction (MM/DD/YY)
+transaction_time : Timestamp of the transaction (HH:MM:SS)
+transaction_qty : Quantity of items sold
+store_id : Unique ID of the coffee shop where the transaction took place
+store_location : Location of the coffee shop where the transaction took place
+product_id : Unique ID of the product sold
+unit_price : Retail price of the product sold
+product_category : Description of the product category
+product_type : Description of the product type
+product_detail : Description of the product detail
 
 
 
@@ -52,7 +52,7 @@ Revenue shows an overall upward trend with noticeable peaks during weekends. The
 
 ### 2. 📅 What are the busiest days and hours?
 **Finding**:  
-- **Saturday** and **Sunday** have the highest footfall.
+- **Friday**,**Monday** and **Thursday** have the highest footfall.
 - Most purchases occur between **8 AM – 10 AM**, aligning with coffee rush hours.
 
 ---
@@ -64,54 +64,41 @@ Revenue shows an overall upward trend with noticeable peaks during weekends. The
 
 ---
 
-### 4. 🏆 Who are our top customers?
-**Finding**:  
-A small segment of **repeat customers** contributes a large portion of total revenue. Introducing a **loyalty program** could increase retention and frequency.
-
----
-
-### 5. 📊 What is the average monthly revenue and how does it trend?
+### 4. 📊 What is the average monthly revenue and how does it trend?
 **Finding**:  
 - Average monthly revenue is **$12,000**.
 - There’s steady growth with a slight dip during the rainy season (April).
 
 ---
 
-### 6. 📉 Are there seasonal or daily patterns in purchases?
+### 5. 📉 Are there seasonal or daily patterns in purchases?
 **Finding**:  
 - Sales increase during holidays (e.g., Christmas, Easter).
 - **Weekdays** show consistent sales, while **weekends** see spikes.
 
 ---
 
-### 7. 🎯 How well are we meeting monthly sales targets?
+### 6. 🎯 How well are we meeting monthly sales targets?
 **Finding**:  
 - Sales exceeded targets in **4 out of 6 months**.
 - Conditional formatting (green/red arrows) shows positive MoM changes for January–March and drops in April–May.
 
 ---
 
-### 8. 📈 What’s the average order size and cart value?
-**Finding**:  
-- **Average Cart Size**: 1.8 items  
-- **Average Order Value**: $6.50  
-Upselling pastries or snacks could improve cart size.
+### 7. 📈 What’s the average transaction value?
+
+- **Average   Transaction Value**: $5  
+.
 
 ---
 
 ## 📊 Tools & Technologies  
 - **Power BI** – Dashboarding and Visual Analytics  
 - **DAX (Data Analysis Expressions)** – For calculated columns, KPIs, MoM metrics  
-- **Excel/CSV** – For data cleaning and initial prep
+
 
 ---
 
-## 🧠 Insights & Recommendations  
-
-- Promote high-margin products like whole beans or merchandise.
-- Run targeted marketing campaigns during slow sales days.
-- Introduce combo offers to increase average cart size.
-- Launch loyalty or rewards programs to retain top customers.
 
 ---
 
