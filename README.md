@@ -1,4 +1,5 @@
 # ☕ Coffee Sales Analysis
+![image](https://github.com/user-attachments/assets/e5dac194-790b-4610-87b8-70d4a08a9916)
 
 ## 📎 Dashboard Preview  
 
