@@ -72,9 +72,25 @@ The total venue was $698812 from January to June. There was a general increase i
 ---
 
 ### 3. 📦 Which products contribute the most to sales?
-**Finding**:  
-- **Espresso** and **Cappuccino** are the top-selling beverages by volume.
-- **Whole Bean Coffee Bags** contribute significantly to revenue due to higher prices.
+
+Latte, Cappuccino, and Cappuccino Lg are among the top-selling products by revenue, showing the popularity of classic coffee beverages.
+Sustainably Grown Organic (Lg) and Dark Chocolate (Lg) from the Drinking Chocolate category contribute significantly to total revenue, likely due to higher price points and premium branding.
+Specialty products like Jamaican Coffee River and Morning Sunrise Chai also perform well, suggesting that customers value unique and differentiated offerings..
+
+| Product Detail                   | Product Category      | Total Revenue |
+|----------------------------------|------------------------|---------------|
+| Brazilian Lg                     | Coffee                 | 15,109.50     |
+| Cappuccino                       | Coffee                 | 15,997.50     |
+| Latte                            | Coffee                 | 17,257.50     |
+| Jamaican Coffee River Lg         | Coffee                 | 16,481.25     |
+| Sustainably Grown Organic Rg     | Drinking Chocolate     | 16,233.75     |
+| Dark chocolate Lg                | Drinking Chocolate     | 21,006.00     |
+| Latte Rg                         | Coffee                 | 19,112.25     |
+| Morning Sunrise Chai Lg          | Tea                    | 17,384.00     |
+| Sustainably Grown Organic Lg     | Drinking Chocolate     | 21,151.75     |
+| Cappuccino Lg                    | Coffee                 | 17,641.75     |
+
+
 
 ---
 
