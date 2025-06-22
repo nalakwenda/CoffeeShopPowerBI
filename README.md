@@ -30,7 +30,6 @@ The dataset used for this project is derived from **Coffee Shop sales records**,
 - Transaction timestamps
 - Items purchased
 - Pricing and quantities
-- Customer identifiers (when available)
 
 The data was cleaned, enriched with time-based attributes, and analyzed using Power BI for real-time insights.
 
