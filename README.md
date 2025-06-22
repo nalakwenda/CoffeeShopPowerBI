@@ -1,14 +1,18 @@
 # ☕ Coffee Sales Analysis
-![image](https://github.com/user-attachments/assets/e5dac194-790b-4610-87b8-70d4a08a9916)
-
-## 📎 Dashboard Preview  
 
 ---
-
 ## 📌 Background  
 In today’s competitive retail environment, understanding customer purchasing behavior and sales trends is critical.
 This project analyzes a coffee shop’s transaction data to uncover actionable insights that help drive better business decisions
 related to revenue, customer behavior, and sales performance.
+
+---
+
+## 📎 Dashboard Preview  
+![image](https://github.com/user-attachments/assets/e5dac194-790b-4610-87b8-70d4a08a9916)
+
+![image](https://github.com/user-attachments/assets/04ce39c4-5b93-45f0-91f5-50225b43175b)
+ 
 
 ---
 
