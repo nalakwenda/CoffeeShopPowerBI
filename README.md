@@ -28,19 +28,22 @@ The data was cleaned, enriched with time-based attributes, and analyzed using Po
 
 ## 🗂️ Data Structure Overview  
 
-transaction_id : Unique sequential ID representing an individual transaction
-transaction_date : Date of the transaction (MM/DD/YY)
-transaction_time : Timestamp of the transaction (HH:MM:SS)
-transaction_qty : Quantity of items sold
-store_id : Unique ID of the coffee shop where the transaction took place
-store_location : Location of the coffee shop where the transaction took place
-product_id : Unique ID of the product sold
-unit_price : Retail price of the product sold
-product_category : Description of the product category
-product_type : Description of the product type
-product_detail : Description of the product detail
+| Column Name         | Description                                     |
+|---------------------|-------------------------------------------------|
+| `transaction_id`     | Unique identifier for each transaction         |
+| `transaction_date`   | Date of transaction                            |
+| `transaction_time`   | Time of transaction                            |
+| `transaction_qty`    | Quantity sold                                  |
+| `store_id`           | Unique ID of the coffee shop where the transaction took place |
+| `store_location`     | Store location (if multiple branches)          |
+| `product_id`         | Unique ID of the product sold                  |
+| `unit_price`         | Price per unit                                 |
+| `product_category`   | Category of product (e.g., Beverage)           |
+| `product_type`       | Description of the product type                |
+| `product_detail`     | Name of the product sold                       |
 
-
+## 🔗 Data Source
+(https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales)
 
 ## ❓ Business Questions & Findings
 
